@@ -1,4 +1,6 @@
-this project is custom order to do 4 things
+# Phone Number & Website Checker & add Google locations
+## futures
+this project is a custom project with the purpose of doing 4 things:
 1. getting large csv file and remove the blank lines
 2. check phone numbers availability and create a new csv file with the free ones.
 3. getting csv file with Google username, password and businesses information and trying to add as a new location
